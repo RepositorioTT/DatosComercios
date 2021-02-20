@@ -1,72 +1,72 @@
 ,Frutas,Precio Frutas,Verdura,Precio Verduras,Lacteos,Precio Lacteos,Carne,Precio Carnes,Enlatados ,Precio Enlatados
-0,Platano Tabasco,28.9,Jitomate Saladet,9.9,Leche Uht Entera Proteina 0 Lactosa 100,25.65,Chuleta Ahumada Cerdo Selecto,109.5,Granos De Elote Dorado,8.15
-1,Papaya Maradol,32.9,Aguacate Hass,46.9,Leche Uht Semidescremada,21.45,Molida Cerdo Selecto,111.0,Chicharron De Cerdo,159.0
-2,Limon Agrio,36.9,Cebolla Blanca,16.9,Leche Uht Entera,21.05,Pulpa De Pierna Cerdo Selecto,115.7,Granos De Elote,7.15
-3,Naranja Valencia Para Jugo,13.5,Calabaza Italiana,17.9,Leche Uht Semidescremada,8.3,Costilla Cerdo Selecto,118.5,Garbanzos,15.1
-4,Limon Agrio Sin Semilla 4639 1,36.9,Zanahoria,14.9,Leche Uht Deslactosada Light,30.0,Lomo Cerdo Supremo,121.4,Granos De Elote Dorado,15.0
-5,Manzana Royal Gala,62.9,Papa Blanca,39.9,Leche Uht Entera,15.8,Chuleta Cerdo Selecto,104.61,Ensalada De Verduras,8.95
-6,Piña Miel,23.9,Pepino,20.9,Leche Uht Semidescremada,8.3,Filete Cerdo Selecto,145.4,Champiñones Rebanados,15.9
-7,Guayaba,32.8,Tomate Verde Sin Cascara,18.9,Leche Uht Deslactosada,21.75,Milanesa De Pierna Cerdo Selecto,115.0,Granos De Elote Blanco Mexicano,13.7
-8,Uva Blanca Sin Semilla,135.0,Chayote Sin Espinas,17.5,Leche Fresca Entera,34.3,Milanesa De Lomo Cerdo Selecto,139.8,Granos De Elote Dorado,14.1
-9,Melon Chino,28.4,Chile Serrano,20.9,Producto Lacteo Uht Entero,15.55,Codillo Cerdo Selecto,64.0,Ajo Picado,93.0
-10,Fresa,89.9,Ejote Verde,32.8,Leche Uht Semidescremada,27.0,Espinazo Cerdo Selecto,131.9,Ensalada De Verduras,13.5
-11,Toronja Sangria,13.5,Chile Poblano,28.9,Leche Uht Entera,31.05,Lomo Ahumado Cerdo Selecto,122.86,Champiñones Rebanados,30.1
-12,Jicama,15.4,Pimiento Verde,29.9,Leche Fresca Entera,32.7,Bistec De Pierna Cerdo Selecto,123.8,Granos De Elote Dorado,14.4
-13,Manzana Golden,39.9,Pimiento Rojo,84.9,Leche Uht Semidescremada,8.3,Carrillera Baby Back Cerdo Selecto,134.0,Ensalada De Verduras,11.0
-14,Pera De Anjou,64.9,Cebolla Morada,41.8,Leche Uht Deslactosada Selecta,21.5,Manitas Cerdo Selecto,62.2,Garbanzo En Salmuera,17.5
-15,Manzana Starking,49.9,Jengibre,126.9,Leche Uht Deslactosada,16.6,Cabeza De Lomo Sin Hueso Cerdo Selecto,107.0,Chicharos Con Zanahorias,7.9
-16,Tangerina,35.8,Ajo Morado,172.0,Leche Fresca Light 0 Lactosa 100,25.9,Cabeza De Lomo Cerdo Selecto,108.8,Chicharos,11.17
-17,Platano Macho,25.8,Jitomate Bola,11.9,Leche Uht Semidescremada,8.3,Hueso Pozolero Cerdo Selecto,40.4,Chicharos,7.25
-18,Manzana Golden Ex,69.9,Betabel,14.9,Leche Uht Deslactosada,7.7,Lomo Mexicano Cerdo Selecto,122.54,Champiñones En Escabeche,37.4
-19,Manzana Golden Nacional,56.7,Papa Cambray,36.6,Leche Uht Semidescremada,114.0,New York Cerdo Supremo,152.0,Ensalada Campesina,6.5
-20,Sandia Charleston,11.9,Elote Blanco,9.7,Crema Acida,26.9,Milanesa De Pechuga Pollo Selecto,135.0,Chicharos,7.5
-21,Mango Manila 4639 1,39.9,Pimiento Amarillo,84.9,Crema Acida Deslactosada,30.35,Pechuga Con Hueso Sin Piel Pollo Selecto,103.96,Chicharos Y Zanahorias,13.3
-22,Limon Eureka,65.7,Berenjena,32.8,Crema Acida Light,28.35,Muslo Sin Piel Pollo Selecto,69.0,Champiñones En Trocitos,15.45
-23,Platano Tabasco Organico,26.9,Tomate Verde Con Cascara,18.9,Crema Acida Reducida En Grasa,26.9,Pechuga S/H Cong Pollo Selecto,116.3,Ensalada Campesina,11.0
-24,Kiwi 4639 1,109.0,Poro,40.7,Crema Acida,12.85,Pechuga Con Hueso Americano Pollo Selecto,68.5,Flor De Calabaza,26.45
-25,Platano Dominico,47.5,Chile Cuaresmeño,20.9,Crema Acida,27.95,Filete De Pechuga Pollo Selecto,125.0,Champiñones En Escabeche,19.5
-26,Mandarina Clementina,145.0,Pimiento Naranja,84.9,Crema Acida Premium,36.0,Canal Entera Pollo Selecto 1 Kg Pollo Selecto,42.5,Champiñones Rebanados,13.7
-27,Manzana Granny,79.9,Camote Amarillo Nacional,74.6,Crema Acida,54.0,Pierna Sin Piel Pollo Selecto,69.6,Champiñones Enteros,17.83
-28,Frambuesa,82.5,Chile Verde De Arbol,82.1,Crema Acida Deslactosada,13.8,Muslo Pollo Selecto,62.0,Ejotes,13.5
-29,Sandia Baby,31.3,Chile Habanero,62.7,Crema Dulce,53.0,Pierna Con Muslo Americano Pollo Selecto,35.3,Ensalada De Legumbres,13.2
-30,Durazno Amarillo,69.9,Pepino Criollo,5.5,Crema Acida,53.5,Pechuga Sin Hueso Pollo Selecto,126.4,Ensalada De Legumbres,8.3
-31,Zarzamora,75.9,Chicharo,41.8,Crema Acida Reducida En Grasa,12.85,Molida De Pechuga Pollo Selecto,130.0,Ensalada De Verduras Mas 15%,8.38
-32,Pera Bosc 4639 1,71.6,Cebolla De Rabo,32.2,Crema Acida Reducida En Grasa,54.0,Pechuga Anatomic Pollo Selecto,97.6,Ensalada Campesina,8.38
-33,Naranja Importada,49.3,Cremini Rebanado,25.9,Crema Acida Deslactosada,58.0,Pierna Con Muslo Sin Piel Pollo Selecto,69.4,Flor De Calabaza,34.5
-34,Mango Paraiso,36.9,Jitomate Cherry,30.3,Crema Acida Light,13.85,Pierna Con Muslo Pollo Selecto,62.0,Champiñones Rebanados,26.9
-35,Melon Valenciano,23.9,Calabaza Criolla,33.6,Crema Dulce,95.0,Milanesa De Pechuga Congelada Pollo Selecto,121.0,Chicharos,7.15
-36,Sandia Sin Semilla,11.9,Papa Amarilla Chica,34.8,Crema Acida Light,55.0,Pierna Pollo Selecto,45.3,Chicharos,11.5
-37,Mandarina Clementina,139.0,Pepino Europeo,30.3,Crema Natural,31.5,Alas Pollo Selecto,44.9,Ensalada De Vegetales,13.15
-38,Nectarina,89.6,Tomatillo Milpero,37.3,Crema Acida Premium Selecta,31.55,Rabadilla Pollo Selecto,11.9,Chicharos Con Zanahoria,8.23
-39,Manzana Rallada,32.4,Elote Blanco Entero Limpio,22.4,Crema Acida Premium,60.5,Menudencias Pollo Selecto,22.8,Ensalada De Verduras,7.9
-40,Mamey,39.9,Portabella Entero,63.6,Huevo Blanco,65.5,Molida Sirloin 95/5 Res Selecta,200.0,Ensalada De Verduras,11.2
-41,Uva Red Globo,89.9,Elote Blanco En Trozos,22.4,Huevo Blanco,42.0,Milanesa De Bola Res Selecta,187.0,Granos De Elote Dorado,7.9
-42,Higo 4639 1,78.1,Tomatoes Cherubs,41.9,Huevo Blanco,27.5,Milanesa De Centro Res Selecta,196.0,Granos De Elote Dorado,11.0
-43,Lima,37.8,Ajo Shallot,39.8,Huevo Blanco,39.5,Bistec Para Asar Res Selecta,169.3,Chicharos,8.5
-44,Uva Roja Sin Semilla,98.5,Zanahoria Cambray,22.8,Huevo Blanco,27.3,Deshebrada Res Selecta,159.9,Champiñones En Trocitos,31.35
-45,Durazno Melocoton,98.5,Chayote Con Espinas,37.3,Huevo Blanco,59.0,Molida Selecta 80/20 Res Selecta,177.0,Mezcla Elote Con Poblano,14.0
-46,Ciruela Moscatel,78.1,Cebolla Amarilla,27.6,Huevo Blanco,77.07,Fajita De Centro Res Selecta,198.0,Chicharos Con Zanahorias,13.57
-47,Zapote Negro,30.3,Pepino Europeo,14.4,Huevo Blanco,49.1,Chambarete Sin Hueso Res Selecta,155.0,Ensalada Campesina,11.4
-48,Pera Red De Anjou,82.1,Tomatoes Glorys,41.9,Huevo Blanco,69.0,Bistec De Diezmillo Res Selecta,170.4,Chicharos Con Zanahorias,7.17
-49,Pera Asiatica,71.6,Chalot,164.2,Huevo Blanco,43.6,Chambarete Con Hueso Res Selecta,104.9,Arroz Gohan Blanco,204.0
-50,Jicama Cambray,17.2,Haba Verde,52.2,Huevo Blanco,75.23,Bistec De Aguayon Res Selecta,198.0,Cebolla En Vinagre,59.4
-51,Chicozapote,71.6,Ajo Italiano,201.5,Huevo Blanco,69.0,Tampiqueña De Filete Res Selecta,459.0,Arroz Con Granos Ancestrales,230.0
-52,Ciruela Nubiana,98.5,Camote Achicalado,87.0,Huevo Blanco,34.7,Carne Para Asar Res Selecta,175.0,Corazones De Alcachofa,323.0
-53,Piña,31.3,Papa Criolla,25.8,Huevo Blanco,29.0,Molida Mixta Res Mixto,125.0,Champiñones Rebanados,33.4
-54,Higo Black Mission,89.9,Chile Cristal,59.7,Alimento Liquido Uht Almendra 0 Azucar,42.5,Medallon De Filete Res Selecta,459.0,Mole Actopan Polvo,53.5
-55,Uva Negra Sin Semilla 4639 1,98.5,Champiñon Blanco,89.9,Alimento Liquido Uht Almendra,42.5,Milanesa De Contra Res Selecta,176.6,Chicharos Con Zanahorias,14.5
-56,Platano Morado,31.0,Chile Manzano,77.6,Alimento Liquido Uht Almendra 0 Azucar,42.5,Bistec Ranchero Res Selecta,176.6,Granos De Elote Sazonado,11.5
-57,Maracuya,49.7,Camote Blanco Nacional,74.6,Alimento Liquido Uht Almendra,42.5,Pulpa Para Estofado Res Selecta,171.0,Mole Don Pancho Apinonado 500 Gr,99.0
-58,Limon Real,41.0,Chicharo Limpio,104.9,Alimento Liquido Uht Coco,34.3,Rib Eye Res Selecta,335.0,Mezcla Elote Con Pimiento,14.0
-59,Coco De Agua,19.1,Chayote Cambray,37.3,Alimento Liquido Uht Soya Light,27.05,Pulpa Fina Res Selecta,171.0,Mole Dulce Polvo Atocpan,53.5
-60,Manzana Ambrosia,56.7,Chicharo Chino,37.1,Alimento Liquido Uht Almendra,49.0,Molida Ternera Selecta,261.0,Champiñones Enteros,17.5
-61,Carambolo,66.1,Ajo Pelado,73.5,Alimento Liquido Uht Coco 0 Azucar,31.0,Milanesa De Bola Ternera Selecta,276.0,Champiñones En Trocitos,13.7
-62,Guanabana,75.1,Tomatoes Constellation,79.9,Alimento Liquido Uht Almendra Vita,40.1,Fajita Ternera Selecta,276.0,Champiñones En Salsa Morita,24.9
-63,Manzana Fuji,70.1,Xoconoxtle,37.8,Alimento Liquido Uht Almendra 0 Azucar Nature'S Heart,40.4,Filete Ternera Selecta,503.0,Ensalada De Verduras Sazonada,10.0
-64,Granada Roja Extra,106.0,Nabo,37.9,Alimento Liquido Uht Soya,27.05,Bistec De Aguayon Ternera Selecta,266.0,Champiñones En Escabeche,18.9
-65,Kiwi Dorado,89.9,Azafran,33.4,Alimento Liquido Uht Almendra,42.3,Chambarete Con Hueso Ternera Selecta,134.0,Champiñones En Salsa Pasilla,24.9
-66,Chabacano,197.0,Chile Cuaresmeño,9.5,Alimento Liquido Uht Almendra Sin Gluten,9.0,Deshebrada Ternera Selecta,251.0,Champiñones En Trozos,16.0
-67,Naranja Mineola,59.7,Chilacayote,71.6,Alimento Liquido Uht Coco Vita,39.35,Tampiqueña Ternera Selecta,195.0,Champiñones Rebanados,13.3
-68,Chirimoya,83.6,Aguacate Criollo,67.2,Alimento Liquido Uht Soya 0 Azucar,49.0,Cubitos Ternera Selecta,218.0,Maiz Blanco,45.0
-69,Sandia Charleston,11.9,Yuca,33.4,Alimento Liquido Uht Soya 0 Azucar,36.5,Chambarete Sin Hueso Ternera Selecta,187.0,Champiñones En Trocitos,27.75
-70,Granada China,116.9,Cebolla Blanca,32.4,Alimento Liquido Uht Almendra Nature'S Heart,40.5,Rib Eye Ternera Selecta,357.0,Ensalada De Verduras Sazonada,11.5
+0,Platano Tabasco,27.5,Jitomate Saladet,9.5,Leche Uht Entera Proteina 0 Lactosa 100,25.65,Chuleta Ahumada Cerdo Selecto,92.4,Granos De Elote Dorado,8.15
+1,Papaya Maradol,29.9,Aguacate Hass,44.9,Leche Uht Semidescremada,21.45,Molida Cerdo Selecto,111.0,Chicharron De Cerdo,159.0
+2,Limon Agrio,35.9,Cebolla Blanca,15.9,Leche Uht Entera,21.05,Pulpa De Pierna Cerdo Selecto,115.7,Granos De Elote,7.15
+3,Naranja Valencia Para Jugo,13.5,Calabaza Italiana,17.5,Leche Uht Deslactosada Light,30.0,Costilla Cerdo Selecto,118.5,Garbanzos,15.1
+4,Limon Agrio Sin Semilla 4639 1,36.9,Zanahoria,14.9,Leche Uht Semidescremada,8.3,Lomo Cerdo Supremo,121.4,Granos De Elote Dorado,15.0
+5,Manzana Royal Gala,56.9,Papa Blanca,41.9,Leche Uht Entera,15.8,Chuleta Cerdo Selecto,104.61,Ensalada De Verduras,8.95
+6,Piña Miel,21.9,Pepino,21.0,Leche Uht Semidescremada,8.3,Milanesa De Pierna Cerdo Selecto,115.0,Champiñones Rebanados,15.9
+7,Uva Blanca Sin Semilla,99.9,Tomate Verde Sin Cascara,18.5,Leche Uht Deslactosada,21.75,Milanesa De Lomo Cerdo Selecto,139.8,Granos De Elote Blanco Mexicano,13.7
+8,Guayaba,32.9,Chayote Sin Espinas,17.9,Leche Fresca Entera,34.3,Codillo Cerdo Selecto,64.0,Granos De Elote Dorado,14.1
+9,Melon Chino,27.9,Chile Serrano,21.0,Producto Lacteo Uht Entero,15.55,Espinazo Cerdo Selecto,131.9,Ajo Picado,93.0
+10,Fresa,94.5,Ejote Verde,32.9,Leche Uht Semidescremada,27.0,Lomo Ahumado Cerdo Selecto,122.86,Ensalada De Verduras,13.5
+11,Toronja Sangria,12.9,Chile Poblano,26.9,Leche Uht Entera,31.05,Bistec De Pierna Cerdo Selecto,113.8,Champiñones Rebanados,30.1
+12,Jicama,17.9,Pimiento Verde,29.9,Leche Fresca Entera,32.7,Carrillera Baby Back Cerdo Selecto,134.0,Granos De Elote Dorado,14.4
+13,Manzana Golden,41.0,Pimiento Rojo,81.9,Leche Uht Deslactosada Selecta,21.5,Manitas Cerdo Selecto,62.2,Ensalada De Verduras,11.0
+14,Pera De Anjou,64.9,Cebolla Morada,31.9,Leche Uht Semidescremada,8.3,Cabeza De Lomo Sin Hueso Cerdo Selecto,107.0,Garbanzo En Salmuera,17.5
+15,Manzana Starking,51.9,Jengibre,126.9,Leche Uht Deslactosada,16.6,Cabeza De Lomo Cerdo Selecto,108.8,Chicharos Con Zanahorias,7.9
+16,Tangerina,33.9,Ajo Morado,172.0,Leche Fresca Light 0 Lactosa 100,25.9,Hueso Pozolero Cerdo Selecto,40.4,Chicharos,11.17
+17,Platano Macho,25.9,Jitomate Bola,10.5,Leche Uht Semidescremada,8.3,Lomo Mexicano Cerdo Selecto,122.54,Chicharos,7.25
+18,Manzana Golden Nacional,56.9,Betabel,14.9,Leche Fresca Light,33.0,New York Cerdo Supremo,152.0,Champiñones En Escabeche,37.4
+19,Manzana Golden Ex,69.9,Papa Cambray,36.9,Leche Uht Deslactosada,7.7,Milanesa De Pechuga Pollo Selecto,135.0,Ensalada Campesina,6.5
+20,Sandia Charleston,11.5,Elote Blanco,8.9,Crema Acida,26.9,Pechuga Con Hueso Sin Piel Pollo Selecto,103.96,Chicharos,7.5
+21,Mango Manila 4639 1,43.9,Pimiento Amarillo,81.9,Crema Acida Deslactosada,30.35,Muslo Sin Piel Pollo Selecto,69.0,Chicharos Y Zanahorias,13.3
+22,Limon Eureka,65.9,Berenjena,32.9,Crema Acida Light,28.35,Pechuga S/H Cong Pollo Selecto,106.0,Champiñones En Trocitos,15.45
+23,Platano Tabasco Organico,26.9,Tomate Verde Con Cascara,19.5,Crema Acida,12.85,Pechuga Con Hueso Americano Pollo Selecto,68.5,Ensalada Campesina,11.0
+24,Kiwi 4639 1,109.0,Poro,41.0,Crema Acida,27.95,Filete De Pechuga Pollo Selecto,114.0,Flor De Calabaza,26.45
+25,Platano Dominico,47.5,Chile Cuaresmeño,21.0,Crema Acida Premium,36.0,Canal Entera Pollo Selecto 1 Kg Pollo Selecto,39.9,Ejotes,13.5
+26,Manzana Granny,76.9,Pimiento Naranja,81.9,Crema Acida,54.0,Pierna Sin Piel Pollo Selecto,69.6,Champiñones En Escabeche,19.5
+27,Mandarina Clementina,145.0,Camote Amarillo Nacional,74.9,Crema Acida Deslactosada,13.8,Muslo Pollo Selecto,62.0,Champiñones Enteros,17.83
+28,Frambuesa,82.5,Chile Verde De Arbol,82.1,Crema Dulce,53.0,Pierna Con Muslo Americano Pollo Selecto,35.3,Champiñones Rebanados,13.7
+29,Sandia Baby,24.9,Chile Habanero,78.0,Crema Acida,53.5,Pechuga Sin Hueso Pollo Selecto,126.4,Ensalada De Legumbres,8.3
+30,Durazno Amarillo,71.9,Chicharo,41.8,Crema Acida Reducida En Grasa,12.85,Molida De Pechuga Pollo Selecto,130.0,Ensalada De Verduras Mas 15%,8.38
+31,Zarzamora,75.0,Cebolla De Rabo,32.2,Crema Acida Reducida En Grasa,54.0,Pechuga Anatomic Pollo Selecto,97.6,Ensalada De Legumbres,13.2
+32,Pera Bosc 4639 1,69.9,Cremini Rebanado,25.9,Crema Acida Deslactosada,58.0,Pierna Con Muslo Sin Piel Pollo Selecto,69.4,Ensalada Campesina,8.38
+33,Naranja Importada,49.9,Jitomate Cherry,30.3,Crema Acida Light,13.85,Pierna Con Muslo Pollo Selecto,62.0,Champiñones Rebanados,26.9
+34,Mango Paraiso,36.9,Calabaza Criolla,33.6,Crema Dulce,95.0,Milanesa De Pechuga Congelada Pollo Selecto,121.0,Flor De Calabaza,34.5
+35,Melon Valenciano,23.9,Papa Amarilla Chica,34.8,Crema Acida Light,55.0,Pierna Pollo Selecto,62.0,Chicharos,7.15
+36,Sandia Sin Semilla,9.5,Pepino Europeo,31.0,Crema Natural,31.5,Alas Pollo Selecto,68.4,Chicharos,11.5
+37,Mandarina Clementina,129.9,Tomatillo Milpero,37.3,Crema Acida Premium Selecta,31.55,Rabadilla Pollo Selecto,10.9,Ensalada De Vegetales,13.15
+38,Nectarina,89.9,Elote Blanco Entero Limpio,22.4,Crema Acida,13.85,Menudencias Pollo Selecto,15.9,Chicharos Con Zanahoria,8.23
+39,Manzana Rallada,32.4,Portabella Entero,63.6,Crema Acida Premium,60.5,Molida Sirloin 95/5 Res Selecta,200.0,Ensalada De Verduras,7.9
+40,Mamey,40.9,Elote Blanco En Trozos,22.4,Huevo Blanco,65.5,Milanesa De Bola Res Selecta,187.0,Ensalada De Verduras,11.2
+41,Uva Red Globo,89.9,Tomatoes Cherubs,41.9,Huevo Blanco,42.0,Milanesa De Centro Res Selecta,196.0,Granos De Elote Dorado,7.9
+42,Higo 4639 1,78.1,Ajo Shallot,39.8,Huevo Blanco,27.5,Bistec Para Asar Res Selecta,169.3,Granos De Elote Dorado,11.0
+43,Lima,37.8,Zanahoria Cambray,22.8,Huevo Blanco,39.5,Deshebrada Res Selecta,159.9,Chicharos,8.5
+44,Uva Roja Sin Semilla,89.9,Chayote Con Espinas,37.3,Huevo Blanco,27.3,Molida Selecta 80/20 Res Selecta,159.9,Champiñones En Trocitos,31.35
+45,Durazno Melocoton,99.5,Pepino Europeo,14.4,Huevo Blanco,59.0,Fajita De Centro Res Selecta,198.0,Mezcla Elote Con Poblano,14.0
+46,Ciruela Moscatel,78.1,Cebolla Amarilla,27.6,Huevo Blanco,77.07,Chambarete Sin Hueso Res Selecta,155.0,Chicharos Con Zanahorias,13.57
+47,Zapote Negro,30.3,Tomatoes Glorys,41.9,Huevo Blanco,49.1,Bistec De Diezmillo Res Selecta,170.4,Ensalada Campesina,11.4
+48,Pera Red De Anjou,74.9,Chalot,164.2,Huevo Blanco,69.0,Chambarete Con Hueso Res Selecta,104.9,Chicharos Con Zanahorias,7.17
+49,Pera Asiatica,71.6,Haba Verde,52.2,Huevo Blanco,43.6,Bistec De Aguayon Res Selecta,198.0,Arroz Gohan Blanco,204.0
+50,Jicama Cambray,17.2,Ajo Italiano,203.0,Huevo Blanco,75.23,Carne Para Asar Res Selecta,175.0,Cebolla En Vinagre,59.4
+51,Chicozapote,71.6,Camote Achicalado,87.0,Huevo Blanco,69.0,Tampiqueña De Filete Res Selecta,459.0,Arroz Con Granos Ancestrales,230.0
+52,Ciruela Nubiana,99.5,Papa Criolla,25.8,Huevo Blanco,34.7,Molida Mixta Res Mixto,125.0,Corazones De Alcachofa,323.0
+53,Piña,31.3,Chile Cristal,59.7,Huevo Blanco,29.0,Medallon De Filete Res Selecta,459.0,Champiñones Rebanados,33.4
+54,Higo Black Mission,89.9,Champiñon Blanco,91.0,Alimento Liquido Uht Almendra 0 Azucar,42.5,Milanesa De Contra Res Selecta,176.6,Granos De Elote Sazonado,11.5
+55,Uva Negra Sin Semilla 4639 1,99.5,Chile Manzano,77.6,Alimento Liquido Uht Almendra,42.5,Bistec Ranchero Res Selecta,176.6,Chicharos Con Zanahorias,14.5
+56,Maracuya,49.7,Chicharo Limpio,104.9,Alimento Liquido Uht Almendra 0 Azucar,42.5,Pulpa Para Estofado Res Selecta,171.0,Mole Actopan Polvo,53.5
+57,Platano Morado,31.0,Chayote Cambray,37.3,Alimento Liquido Uht Almendra,42.5,Rib Eye Res Selecta,335.0,Mole Dulce Polvo Atocpan,53.5
+58,Limon Real,41.0,Chicharo Chino,37.1,Alimento Liquido Uht Coco,34.3,Pulpa Fina Res Selecta,171.0,Mezcla Elote Con Pimiento,14.0
+59,Coco De Agua,19.4,Ajo Pelado,73.5,Alimento Liquido Uht Soya Light,27.05,Molida Ternera Selecta,261.0,Mole Don Pancho Apinonado 500 Gr,99.0
+60,Manzana Ambrosia,56.9,Tomatoes Constellation,79.9,Alimento Liquido Uht Almendra,49.0,Milanesa De Bola Ternera Selecta,276.0,Champiñones Enteros,17.5
+61,Carambolo,66.1,Xoconoxtle,37.8,Alimento Liquido Uht Coco 0 Azucar,31.0,Fajita Ternera Selecta,276.0,Champiñones En Trocitos,13.7
+62,Guanabana,75.1,Nabo,37.9,Alimento Liquido Uht Almendra Vita,40.1,Filete Ternera Selecta,503.0,Champiñones En Salsa Morita,19.9
+63,Manzana Fuji,69.9,Azafran,33.4,Alimento Liquido Uht Almendra 0 Azucar Nature'S Heart,40.4,Bistec De Aguayon Ternera Selecta,266.0,Champiñones En Trozos,16.0
+64,Kiwi Dorado,94.0,Chile Cuaresmeño,9.5,Alimento Liquido Uht Soya,27.05,Chambarete Con Hueso Ternera Selecta,134.0,Ensalada De Verduras Sazonada,10.0
+65,Granada Roja Extra,106.0,Chilacayote,71.6,Alimento Liquido Uht Almendra,42.3,Deshebrada Ternera Selecta,251.0,Champiñones En Escabeche,18.9
+66,Chabacano,197.0,Yuca,33.4,Alimento Liquido Uht Almendra Sin Gluten,9.0,Tampiqueña Ternera Selecta,195.0,Champiñones En Salsa Pasilla,19.9
+67,Naranja Mineola,53.9,Aguacate Criollo,67.2,Alimento Liquido Uht Coco Vita,39.35,Cubitos Ternera Selecta,218.0,Maiz Blanco,45.0
+68,Chirimoya,83.6,Cebolla Blanca,32.4,Alimento Liquido Uht Soya 0 Azucar,49.0,Chambarete Sin Hueso Ternera Selecta,187.0,Champiñones Rebanados,13.3
+69,Sandia Charleston,11.9,Chicharo Chino,116.0,Alimento Liquido Uht Soya 0 Azucar,36.5,Rib Eye Ternera Selecta,357.0,Ensalada De Legumbres,11.5
+70,Granada China,116.9,Jitomate,45.9,Alimento Liquido Uht Almendra Nature'S Heart,40.5,Bistec De Espaldilla Ternera Selecta,184.0,Mole Picoso Polvo .5 Kg,68.0
